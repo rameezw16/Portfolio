@@ -1,0 +1,150 @@
+{
+  "projects": [
+    {
+      "name": "Topic-Modelling-Efficacy",
+      "description": "A comprehensive comparative analysis of topic modeling techniques on real-world consumer complaint data. This project evaluates three distinct approac...",
+      "url": "https://github.com/rameezw16/Topic-Modelling-Efficacy",
+      "languages": [
+        "Jupyter Notebook"
+      ],
+      "skills": [
+        "Pandas",
+        "AI",
+        "Python",
+        "API"
+      ],
+      "stars": 0,
+      "updated": "2026-01-04T10:41:29Z",
+      "topics": []
+    },
+    {
+      "name": "Society-Simulator",
+      "description": "The UML file is available as uml.png. Note that only the signature of the methods is given. This is to avoid clutter, as the names are available in th...",
+      "url": "https://github.com/rameezw16/Society-Simulator",
+      "languages": [
+        "C++"
+      ],
+      "skills": [
+        "REST",
+        "Git",
+        "AI"
+      ],
+      "stars": 0,
+      "updated": "2026-01-04T10:21:52Z",
+      "topics": []
+    },
+    {
+      "name": "DermaConnect",
+      "description": "DermaCare connects users with experts for personalized skincare advice, product recommendations, and consultations. The platform offers expert matchin...",
+      "url": "https://github.com/rameezw16/DermaConnect",
+      "languages": [
+        "HTML"
+      ],
+      "skills": [
+        "JavaScript",
+        "Python",
+        "Git",
+        "Flask",
+        "Bootstrap",
+        "Node.js",
+        "Django",
+        "CSS",
+        "MySQL",
+        "REST",
+        "Testing",
+        "SQL",
+        "MongoDB",
+        "HTML",
+        "AI",
+        "API"
+      ],
+      "stars": 0,
+      "updated": "2026-01-04T10:20:55Z",
+      "topics": []
+    },
+    {
+      "name": "ML-Playground",
+      "description": "An interactive web-based visualization tool for understanding unsupervised machine learning algorithms. This project demonstrates how various clusteri...",
+      "url": "https://github.com/rameezw16/ML-Playground",
+      "languages": [
+        "JavaScript"
+      ],
+      "skills": [
+        "JavaScript",
+        "CSS",
+        "AI",
+        "HTML",
+        "Machine Learning"
+      ],
+      "stars": 0,
+      "updated": "2026-01-04T10:09:30Z",
+      "topics": []
+    },
+    {
+      "name": "Karger-Stein-K-Cut",
+      "description": "A Python implementation of the Karger-Stein algorithm for finding minimum k-cuts in graphs. This implementation provides an efficient randomized algor...",
+      "url": "https://github.com/rameezw16/Karger-Stein-K-Cut",
+      "languages": [
+        "Python"
+      ],
+      "skills": [
+        "Python",
+        "Git",
+        "Node.js",
+        "AI",
+        "NumPy"
+      ],
+      "stars": 0,
+      "updated": "2026-01-04T09:44:09Z",
+      "topics": []
+    },
+    {
+      "name": "DynamicTrees_NF",
+      "description": "A Data Structures project on Dynamic Trees - specifically ST Link-Cut Trees. We have implemented the data structure, visualised it across operations a...",
+      "url": "https://github.com/rameezw16/DynamicTrees_NF",
+      "languages": [],
+      "skills": [
+        "Testing",
+        "AI"
+      ],
+      "stars": 0,
+      "updated": "2026-01-04T09:34:28Z",
+      "topics": []
+    },
+    {
+      "name": "FPGA-Flappy-Bird-with-Q-Learning",
+      "description": "A Flappy Bird game implementation on FPGA featuring autonomous AI gameplay using Q-Learning.",
+      "url": "https://github.com/rameezw16/FPGA-Flappy-Bird-with-Q-Learning",
+      "languages": [
+        "Verilog"
+      ],
+      "skills": [
+        "AI"
+      ],
+      "stars": 0,
+      "updated": "2026-01-04T09:11:10Z",
+      "topics": []
+    }
+  ],
+  "skills": [
+    "Pandas",
+    "AI",
+    "Machine Learning",
+    "Python",
+    "Git",
+    "Node.js",
+    "CSS",
+    "Testing",
+    "NumPy",
+    "JavaScript",
+    "Bootstrap",
+    "REST",
+    "Django",
+    "MySQL",
+    "MongoDB",
+    "API",
+    "Flask",
+    "SQL",
+    "HTML"
+  ]
+}
