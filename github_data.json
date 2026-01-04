@@ -19,7 +19,7 @@
     },
     {
       "name": "Society-Simulator",
-      "description": "The UML file is available as uml.png. Note that only the signature of the methods is given. This is to avoid clutter, as the names are available in th...",
+      "description": "A Dwarf Fortress–inspired society simulator with procedural world generation, emergent storytelling through agent interactions and resource-allocation algorithms to model evolving social systems.",
       "url": "https://github.com/rameezw16/Society-Simulator",
       "languages": [
         "C++"
